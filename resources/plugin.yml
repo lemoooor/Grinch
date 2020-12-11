@@ -1,0 +1,6 @@
+name: Grinch
+version: 1.0
+main: by.lemooor.Main
+commands:
+  findpresent:
+    usage: findpresent

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Grinch:jar">
+    <output-path>$USER_HOME$/Desktop/server/Grinch/plugins</output-path>
+    <root id="archive" name="Grinch.jar">
+      <element id="module-output" name="Grinch" />
+    </root>
+  </artifact>
+</component>
